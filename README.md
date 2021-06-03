@@ -1,4 +1,4 @@
-# Parallax-web-page
+# Parallax-web-page  https://faisal95bd.github.io/Parallax-web-page/
 
 This project was an adaptation of a YouTube tutorial by Brad Traversy (Traversy Media).  Link to the original work/video below:-
 
